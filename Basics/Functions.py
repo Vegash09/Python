@@ -1,3 +1,6 @@
+if __name__ == "__main__":
+    print("Hi")
+
 # Write a function to check if a number is prime.
 def is_prime(num):
     for i in range(2,num):
