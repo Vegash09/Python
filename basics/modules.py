@@ -1,5 +1,5 @@
-import Functions
-from Basics.Functions import *
+import functions
+from basics.functions import *
 
 print(ispali('mom'))
 print(count_vowels("Jeeva"))
